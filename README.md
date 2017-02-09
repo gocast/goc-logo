@@ -1,3 +1,6 @@
 # goc-logo
 
-Gocast Brand logos
+Gocast logo, favicon and icons.
+
+### Build
+gulp
